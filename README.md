@@ -1,6 +1,6 @@
-![YouTube Logo]("YouTube Logo")
+![YouTube Logo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/103934860/original/d2a1463c6c8a6ec4d258f698ae7d539a9129cf88/create-your-youtube-channel-art-and-logo.png)
 
-#</> Pablo Corbalán - YouTube </>
+# </> Pablo Corbalán - YouTube </>
 
 En este repositorio voy a **compartir todo el código de mi [canal de YouTube](https://www.youtube.com/channel/UCYawvF7GUx2eo2QUbtfdtAg)**
 dividido en carpetas dependiendo del video correspondiente.
