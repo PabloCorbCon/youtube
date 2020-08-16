@@ -1,4 +1,4 @@
-![YouTube Logo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/103934860/original/d2a1463c6c8a6ec4d258f698ae7d539a9129cf88/create-your-youtube-channel-art-and-logo.png)
+![YouTube Logo](https://github.com/PabloCorbCon/youtube/blob/master/basic_configuration/images/ytlogo.png "YouTube Logo")
 
 # </> Pablo Corbalán - YouTube </>
 
@@ -27,5 +27,3 @@ explained; along with links to the corresponding videos.
 I invite you to stop by the YouTube channel to say hello and subscribe if you like it. If you have found any error in 
 this repository, in the code of any of the videos; feel free to [open an issue](https://github.com/PabloCorbCon/youtube/issues)
 on GitHub.
-
-<img alt="Channel Logo></div>
