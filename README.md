@@ -28,4 +28,4 @@ I invite you to stop by the YouTube channel to say hello and subscribe if you li
 this repository, in the code of any of the videos; feel free to [open an issue](https://github.com/PabloCorbCon/youtube/issues)
 on GitHub.
 
-![Channel Logo](URL "Channel Logo")
+![Channel Logo](https://github.com/PabloCorbCon/youtube/blob/master/basic_configuration/images/roundlogo.png "Channel Logo")
