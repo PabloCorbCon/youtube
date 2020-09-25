@@ -15,8 +15,6 @@ Escribe una función que reciba un numero entero como entrada y retorne el numer
 **En [Este video](URL) te muestro tres formas en las que puedes resolver el Kata**, [la primera](https://github.com/PabloCorbCon/youtube/blob/master/bit_counting_solution/solution_1.py) es la mas sencilla de leer aunque también es la más ineficiente. [La segunda](https://github.com/PabloCorbCon/youtube/blob/master/bit_counting_solution/solution_2.py) es bastante eficiente, en ella utilizamos programación funcional con la función `filter()` de Python y de esta forma nos evitamos el uso de bucles. [La tercera solución](https://github.com/PabloCorbCon/youtube/blob/master/bit_counting_solution/solution_3.py) Es para mi la mejor práctica, es eficiente y fácil de leer. En ella utilizamos la funciín `bin()` de Python y el método `count()`.
 ###### Video dirigido y producido por [Pablo Corbalán](https://github.com/PabloCorbCon) - Libre de derechos
 ---
-### Video: URL
-![Video banner](https://github.com/PabloCorbCon/youtube/blob/master/bit_counting_solution/images/banner.png "banner")
 # "Bit-Counting" Kata
 "Bit-Counting" is a Kata from the [Codewars](https://www.codewars.com) platform, where you can practice your logic in different areas of programming such as algorithms or strings among others.
 You can read more about this Kata in [his Codewars page](https://www.codewars.com/kata/526571aae218b8ee490006f4).
