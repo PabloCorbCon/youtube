@@ -1,7 +1,7 @@
-### Video: URL
+### Video: https://www.youtube.com/watch?v=5M6vzWFjVDQ
 ![Video banner](https://github.com/PabloCorbCon/youtube/blob/master/pygame_smooth_movement/images/miniature.png "banner")
 # Movimiento fluido en Pygame
-En [este tutorial](URL), enseño como puedes implementar un sistema de **movimiento fluido utilizando [Pygame](https://www.pygame.org)**
+En [este tutorial](https://www.youtube.com/watch?v=5M6vzWFjVDQ), enseño como puedes implementar un sistema de **movimiento fluido utilizando [Pygame](https://www.pygame.org)**
 He dividido el repositorio en dos archivos principales
 | Nombre | Descripción |
 |--------|-------------|
@@ -13,7 +13,7 @@ Si te interesa Pygame y **quieres mejorar la jugabilidad de tus juegos** o aplic
 
 ---
 # Smooth movement in Pygame
-In [this tutorial](URL), I show how you can implement a **smooth movement system using [Pygame](https://www.pygame.org)**
+In [this tutorial](https://www.youtube.com/watch?v=5M6vzWFjVDQ), I show how you can implement a **smooth movement system using [Pygame](https://www.pygame.org)**
 I have divided the repository into two main files
 | Name | Description |
 | -------- | ------------- |
