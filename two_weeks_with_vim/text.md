@@ -26,4 +26,6 @@ Vim fugitive, que es un plugin para mejorar la integración de Git en Vim, aunqu
 
 Si seguimos revisando el archivo `.vimrc`, después de cargar todos los plugins vemos como cambiamos un par de cosas más, como encender la sintaxis y todo eso, después cambiamos el tamaño de los idents y de los espacios y poco más, aquí decimos que se vean los numeros de línea, y aquí por último decimos que al cargar vim abrá nerd tree automáticamente.
 
-Te recuerdo que tienes toda la configuración en un enlace que te dejaré en la descripción. Si te ha gustado el video dejamé un comentario, que es lo que más agradezco y nos vemos!
+Te recuerdo que tienes toda la configuración en un enlace que te dejaré en la descripción y que tenemos un servidor de discord donde estaré encantado de hablar contigo.
+
+Si te ha gustado el video dejamé un comentario, que es lo que más agradezco y nos vemos!
