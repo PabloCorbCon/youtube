@@ -1,3 +1,4 @@
+# I'm not longuer running the youtube channel, so this repository has been archived
 ![YouTube Logo](https://github.com/PabloCorbCon/youtube/blob/master/basic_configuration/images/ytlogo.png "YouTube Logo")
 
 # </> Pablo Corbalán - YouTube </>
