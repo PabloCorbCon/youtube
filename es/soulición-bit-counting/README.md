@@ -1,5 +1,5 @@
 ### Video: https://www.youtube.com/watch?v=naslo5w5ib4
-![Video banner](../../img/es/solucion-bit-counting.png "banner")
+![Video banner](../../img/es/solución-bit-counting.png "banner")
 # "Bit-Counting" Kata
 "Bit-Counting" es un Kata de la plataforma [Codewars](https://www.codewars.com), donde puedes practicar tu lógica en distintas areas de la programación como algoritmos o strings entre otras.
 Puedes leer mas sobre este Kata en [su página de Codewars](https://www.codewars.com/kata/526571aae218b8ee490006f4).
